@@ -12,7 +12,8 @@ public class Vogais {
 
 		for (int i = 0; i < frase.length(); i++) {
 			char vogais = frase.charAt(i);
-			if (vogais == 'a' || vogais == 'e' || vogais == 'i' || vogais == 'o' || vogais == 'u') {
+			if (vogais == 'a' || vogais == 'e' || vogais == 'i' || vogais == 'o' || vogais == 'u' ||
+					vogais == 'A' || vogais == 'E' || vogais == 'I' || vogais == 'O' || vogais == 'U') {
 				quantidade++;
 			}
 		}
