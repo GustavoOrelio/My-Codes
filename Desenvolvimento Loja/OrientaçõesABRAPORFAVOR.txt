@@ -1,0 +1,7 @@
+Usamos o PostMan para testar a aplicação
+
+Estrutura de Pesquisa (GET)
+http://localhost:8080/venda
+http://localhost:8080/produto
+http://localhost:8080/cliente
+
